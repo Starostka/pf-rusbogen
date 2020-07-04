@@ -17,12 +17,12 @@ Jeg glæder mig til at se, hvordan du og dine medstuderende kommer til at sætte
 
 På vegne af Polyteknisk Forening.
 
-<img src="Media/Kap1_SoerensUnderskrift.png" alt="Sørens Autograf" width="300"/>
+![Sørens Autograf](Media/Kap1_SoerensUnderskrift.png)
 
 Søren Anton Kuhberg
 Foreningsformand
 
-<img class = fullWidth src="Media/Kap1_SoerenWide.png" alt="Sørens Autograf"/>
+![Sørens Autograf](Media/Kap1_SoerenWide.png)
 
 ## Rektor byder Velkommen
 
@@ -39,12 +39,12 @@ Og husk nu at nyde din studietid. Udnyt de muligheder vores forsknings- og studi
 
 Held og lykke med studierne. Vi ses på rusturen, hvor Bachelordekanen og jeg kommer rundt og besøger jer alle sammen.
 
-<img src="Media/Kap1_AndersBjarklevUnderskrift.jpg" alt="Rektors Autograf" width="300"/>
+![Rektors Autograf](Media/Kap1_AndersBjarklevUnderskrift.jpg)
 
 Anders O. Bjarklev
 Rektor
 
-<img class = fullWidth src="Media/Kap1_RektorTale.jpg" alt="Rektors Autograf"/>
+![Rektors Autograf](Media/Kap1_RektorTale.jpg)
 
 ## Bachelor studiestart
 
@@ -74,7 +74,7 @@ På rusturen mødes vektorhold på tværs af retningerne, hvor du vil blive sat 
 
 Du kan læse mere om bachelor studiestarten på http://studiestart.pf.dk/.
 
-<img class = fullWidth src="Media/Kap1_OPTurGruppeBillede2019.jpg" alt="OPTurGruppeBillede"/>
+![OPTurGruppeBillede](Media/Kap1_OPTurGruppeBillede2019.jpg)
 
 ## Kandidatstudiestart
 
@@ -98,7 +98,8 @@ Arrangørerne af kandidatstudiestarten er PF Master Students, og det er også de
 
 Du kan læse meget mere om kandidatstudiestarten på https://studiestart.pf.dk/master/.
 
-<img class = fullWidth src="Media/Kap1_MasterStudyStart20181.jpg" alt="Master study start 2018"/>
+![Master study start 2018](Media/Kap1_MasterStudyStart20181.jpg)
 
 ___
 <img class = fullWidth src="Media/Kap1_MasterStudyStart20182.jpg" alt="Master study start 2018"/>
+![Master study start 2018](Media/Kap1_MasterStudyStart20182.jpg)
