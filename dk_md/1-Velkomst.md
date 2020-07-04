@@ -101,5 +101,4 @@ Du kan læse meget mere om kandidatstudiestarten på https://studiestart.pf.dk/m
 ![Master study start 2018](Media/Kap1_MasterStudyStart20181.jpg)
 
 ___
-<img class = fullWidth src="Media/Kap1_MasterStudyStart20182.jpg" alt="Master study start 2018"/>
 ![Master study start 2018](Media/Kap1_MasterStudyStart20182.jpg)

@@ -21,12 +21,12 @@ Welcome to DTU and good look with your studies!
 
 On behalf of Polyteknisk Forening
 
-<img src="Media/Kap1_SoerensUnderskrift.png" alt="Sørens Autograf" width="300"/>
+![Sørens Autograf](Media/Kap1_SoerensUnderskrift.png)
 
 Søren Anton Kuhberg
 President of PF
 
-<img class = fullWidth src="Media/Kap1_SoerenWide.png" alt="Sørens Autograf"/>
+![Sørens Autograf](Media/Kap1_SoerenWide.png)
 
 ## Welcome from DTU
 
@@ -46,12 +46,12 @@ And remember to enjoy your studies. Take advantage of the opportunities our worl
 
 Good luck with your studies—I will see you on the rustrip, where the Dean of Undergraduate Studies and Student Affairs and I will visit all of you.
 
-<img src="Media/Kap1_AndersBjarklevUnderskrift.jpg" alt="Rektors Autograf" width="300"/>
+![Rektors Autograf](Media/Kap1_AndersBjarklevUnderskrift.jpg)
 
 Anders O. Bjarklev
 President
 
-<img class = fullWidth src="Media/Kap1_RektorTale.jpg" alt="Rektors Autograf"/>
+![Rektors Autograf](Media/Kap1_RektorTale.jpg)
 
 ## Bachelor study start
 
@@ -79,7 +79,7 @@ At the summer study start, there are 30 different rustrips, that vary in size fr
 
 On the rustrip vector groups from different study programs will meet and you will be teamed up with students from other programs in a cross team. This means that you will meet a lot of students from different study programs than the one that you study. This creates a good basis for you to be able to build a large network and a good relationship with your fellow students from the very beginning of your study period.
 
-<img class = fullWidth src="Media/Kap1_OPTurGruppeBillede2019.jpg" alt="OPTurGruppeBillede"/>
+![OPTurGruppeBillede](Media/Kap1_OPTurGruppeBillede2019.jpg)
 
 ## Master study start
 
@@ -103,7 +103,7 @@ The people arranging the master study start are called PF Master Students, and i
 
 You can read more about the master study start at https://studiestart.pf.dk/master/.
 
-<img class = fullWidth src="Media/Kap1_MasterStudyStart20181.jpg" alt="Master study start 2018"/>
+![Master study start 2018](Media/Kap1_MasterStudyStart20181.jpg)
 
 ___
-<img class = fullWidth src="Media/Kap1_MasterStudyStart20182.jpg" alt="Master study start 2018"/>
+![Master study start 2018](Media/Kap1_MasterStudyStart20182.jpg)
